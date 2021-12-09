@@ -6,3 +6,6 @@ The 'final' file contains the project .
 
 
 The 'trackbarr' file contains the code for adjusting the segmentation using different values of RGB . This file is needed to get the best combination of RGB colors according to the background environment . 
+
+
+The python libraries used are : numpy, opencv, pyautogui.
